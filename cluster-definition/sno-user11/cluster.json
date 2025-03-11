@@ -1,7 +1,7 @@
 {
   "environment": "dev",
   "cloud": "aws",
-  "project": "project-sno-user11",
+  "project": "project-sno-11",
   "region": "eu-central-1",
   "cluster": {
     "name": "sno-user11",

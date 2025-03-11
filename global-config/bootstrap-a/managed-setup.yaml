@@ -8,10 +8,10 @@ spec:
   destination:
     namespace: openshift-operators
     server: https://kubernetes.default.svc
-  project: project-sno-11
+  project: project-sno-user11
   source:
     repoURL: https://github.com/floresprz/workshop-gitops-content-deploy.git
-    targetRevision: sno-11-setup
+    targetRevision: sno-user11-setup
     path: cluster-addons/cluster-addons-as/
   syncPolicy:
     automated:

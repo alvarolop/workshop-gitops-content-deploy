@@ -8,7 +8,7 @@ spec:
   destination:
     namespace: openshift-operators
     server: https://kubernetes.default.svc
-  project: project-sno-user11
+  project: project-sno-11
   source:
     repoURL: https://github.com/floresprz/workshop-gitops-content-deploy.git
     targetRevision: sno-user11-setup

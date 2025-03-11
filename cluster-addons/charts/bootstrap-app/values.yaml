@@ -7,4 +7,4 @@ clusters:
     code:
       repo: https://github.com/floresprz/workshop-gitops-content-deploy.git
       path: cluster-addons/charts/bootstrap
-      target: sno-11-setup
+      target: sno-user11-setup

@@ -25,11 +25,11 @@ argocd:
   group: cluster-admins
 
 vault: 
-  vault_addr: "http://vault-vault.apps.argo-hub.sandbox2414.opentlc.com.opentlc.com"
+  vault_addr: "https://hashicorp-vault-server-vault.apps.argo-hub.sandbox2414.opentlc.com"
   avp_type: vault
   avp_auth_type: approle
   avp_role_id: c2494890-eba1-606d-03c0-226368d9033f
-  avp_secret_id: a5a16f35-4259-370a-3150-2423726cc70f
+  avp_secret_id: e4480ab2-d3eb-5a98-5b5a-e3cf9bda9b19
 
 namespaces:
   - name: app

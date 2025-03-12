@@ -28,8 +28,8 @@ vault:
   vault_addr: "https://hashicorp-vault-server-vault.apps.argo-hub.sandbox2414.opentlc.com"
   avp_type: vault
   avp_auth_type: approle
-  avp_role_id: c2494890-eba1-606d-03c0-226368d9033f
-  avp_secret_id: e4480ab2-d3eb-5a98-5b5a-e3cf9bda9b19
+  avp_role_id: 17e75c66-bd2f-5081-0af5-e3c01213874f
+  avp_secret_id: fe272672-35c3-7983-c0fc-a8b79551c1c2
 
 namespaces:
   - name: app
